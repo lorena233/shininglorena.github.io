@@ -1,0 +1,36 @@
+body{
+	background-color: #50808D;
+	hsl(0, 100%, 85%);
+}
+
+.profile-image{
+	width: 200px; 
+	height: 200px;
+}
+
+.profile-text{
+	text-align: center;
+	margin: 0px auto; 
+}
+
+.profile-details-card {
+	margin-bottom: 30px;
+	text-align: center;
+}
+
+.custom-facebook-link{
+	color: red;
+}
+
+.division-one{ 
+	text-align: center;
+	color: hsl(9, 100%, 64%);
+}
+
+.card-title-centre{
+	text-align: center;
+}
+
+.fa-star:before {
+  content: "\f005";
+}
