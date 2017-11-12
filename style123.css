@@ -1,6 +1,9 @@
+h1{
+	text-align: center;
+}
+
 body{
-	background-color: #50808D;
-	hsl(0, 100%, 85%);
+	background-color: hsl(0, 100%, 85%);
 }
 
 .profile-image{
@@ -14,7 +17,7 @@ body{
 }
 
 .profile-details-card {
-	margin-bottom: 30px;
+	margin-bottom: 25px;
 	text-align: center;
 }
 
